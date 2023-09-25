@@ -1,0 +1,12 @@
+.section-product {
+    margin-top: 80px;
+}
+
+.section__cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section__cards_bottom {
+    margin-top: 25px;
+}

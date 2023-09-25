@@ -1,0 +1,8 @@
+.section-news {
+    margin-top: 80px;
+}
+
+.section-news__cards {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,45 @@
+.nav {
+    margin-top: 32px;
+}
+
+.nav__info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.nav__extra {
+    display: flex;
+}
+
+.nav__extra div {
+    margin-left: 20px;
+}
+
+.nav__extra div p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.nav__extra div a {
+    float: right;
+    font-weight: 600;
+    font-size: 20px;
+    color: #607CE6;
+}
+
+.nav__links {
+    width: 951px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 16px;
+}
+
+.nav__links button {
+    color: #333;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}

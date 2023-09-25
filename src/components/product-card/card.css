@@ -1,0 +1,27 @@
+.card {
+    background-color: #F5F5F5;
+    width: 380px;
+    height: 435px;
+}
+
+.card__inner {
+    padding: 32px 24px;
+}
+
+.card__img {
+    width: 200px;
+    height: 194px;
+    margin-bottom: 80px;
+}
+
+.card__name {
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 12px;
+}
+
+.card__link {
+    font-size: 20px;
+    color: #607CE6;
+    text-decoration: none;
+}

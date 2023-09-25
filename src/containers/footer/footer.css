@@ -1,0 +1,39 @@
+.footer {
+    margin-top: 80px;
+    background-color: #333333;
+    padding-top: 56px;
+    padding-bottom: 24px;
+}
+
+.footer__inner {
+    display: flex;
+}
+
+.footer__logo {
+    margin-right: 420px;
+}
+
+.footer div {
+    display: flex;
+}
+
+.footer__links {
+    list-style: none;
+    margin-right: 57px;
+}
+
+.footer__links li {
+    margin-bottom: 24px;
+}
+
+.footer__links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 50px;
+}

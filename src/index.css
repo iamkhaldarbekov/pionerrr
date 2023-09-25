@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Source Sans 3', sans-serif;
+    width: 1440px;
+    margin: 0 auto;
+    color: #333;
+}
+
+a:hover, button:hover {
+    text-decoration: underline;
+}
+
+ul a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    padding: 0 130px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
