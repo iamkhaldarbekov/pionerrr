@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pionerrr/static/css/main.1009bbe9.css",
+    "main.js": "/pionerrr/static/js/main.0b2b67f0.js",
+    "static/media/about-img2.jpg": "/pionerrr/static/media/about-img2.708bd3554e5daa1f8658.jpg",
+    "static/media/about-img1.jpg": "/pionerrr/static/media/about-img1.cdec6ee9193bec99f369.jpg",
+    "static/media/news1.jpg": "/pionerrr/static/media/news1.3b4c458ab02c838873c7.jpg",
+    "static/media/header-bg.jpg": "/pionerrr/static/media/header-bg.165ae21954ab159d21b2.jpg",
+    "static/media/news2.jpg": "/pionerrr/static/media/news2.e13f2387439c01cc4f6c.jpg",
+    "static/media/news3.jpg": "/pionerrr/static/media/news3.6302e94b1f1b8321b463.jpg",
+    "static/media/product5.png": "/pionerrr/static/media/product5.13b5dd0dd68cf376683c.png",
+    "static/media/product6.png": "/pionerrr/static/media/product6.5920b1f6d977769d9579.png",
+    "static/media/product4.png": "/pionerrr/static/media/product4.a56d7f4695c7c46fa8b1.png",
+    "static/media/product3.png": "/pionerrr/static/media/product3.b8295d08d93e82fb3a1d.png",
+    "static/media/product2.png": "/pionerrr/static/media/product2.eec823edd98e5935ebda.png",
+    "static/media/product1.png": "/pionerrr/static/media/product1.c680e68f106098606da0.png",
+    "static/media/logo.svg": "/pionerrr/static/media/logo.0499e8625e6b62c053d42ef217dd8a08.svg",
+    "static/media/logo-white.svg": "/pionerrr/static/media/logo-white.cf315923cf99977ae3f28271957eb042.svg",
+    "index.html": "/pionerrr/index.html",
+    "main.1009bbe9.css.map": "/pionerrr/static/css/main.1009bbe9.css.map",
+    "main.0b2b67f0.js.map": "/pionerrr/static/js/main.0b2b67f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1009bbe9.css",
+    "static/js/main.0b2b67f0.js"
+  ]
+}
