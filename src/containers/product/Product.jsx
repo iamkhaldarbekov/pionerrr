@@ -14,14 +14,14 @@ export default function Product() {
       <div className="container">
         <h3 className="title">Продукция</h3>
         <div className='section__cards'>
-          <Card name="Сигнализатор уровня" img={img1} />
-          <Card name="Датчики давления" img={img2} />
-          <Card name="ПИД-регуляторы" img={img3} />
+          <Card name="Сигнализатор уровня" img={img1} width='200px' />
+          <Card name="Датчики давления" img={img2} width='350px' />
+          <Card name="ПИД-регуляторы" img={img3} width='250px' />
         </div>
         <div className='section__cards section__cards_bottom'>
-          <Card name="Калибратор давления" img={img4} />
-          <Card name="Корректор расхода газа" img={img5} />
-          <Card name="Манометры" img={img6} />
+          <Card name="Калибратор давления" img={img4} width='250px' />
+          <Card name="Корректор расхода газа" img={img5} width='270px' />
+          <Card name="Манометры" img={img6} width='280px' />
         </div>
       </div>
     </section>
